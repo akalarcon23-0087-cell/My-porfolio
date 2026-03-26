@@ -32,9 +32,10 @@ Highlight Texas as top state and May as top month.
 # Identify Dirty Data
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/247f5ca983dadfafee44c0e269918048e316a463/Midterm%20Task%201/picture%201.png)
 
+# Map IDs to Real Entities
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/a1d84493a8ea6d5f86ecf8c97f0000ac49a3db0e/Midterm%20Task%201/picture2.png)
 
-
+# Clean Values
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/44d6d8266a67247bb757194fe27d3a402b243a39/Midterm%20Task%201/picture3.png)
 
 # Aggregate Data
