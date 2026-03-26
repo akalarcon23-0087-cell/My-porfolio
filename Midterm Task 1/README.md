@@ -28,6 +28,6 @@ Display KPIs (total revenue, total profit, average margin).
 Add charts for quick insights.
 Highlight Texas as top state and May as top month.
 ## Here the Screen Shot
-![screenshot](Midterm Task 1/picture 1.png)
+![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/247f5ca983dadfafee44c0e269918048e316a463/Midterm%20Task%201/picture%201.png))
 
 
