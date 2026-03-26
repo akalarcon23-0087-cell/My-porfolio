@@ -27,11 +27,7 @@ Pie chart: Revenue per month (May vs June).
 Display KPIs (total revenue, total profit, average margin).
 Add charts for quick insights.
 Highlight Texas as top state and May as top month.
-## Step 3 Before
-![screenshot](/Midterm%20Task%201/Images/Before.png)
+## Here the Screen Shot
+![screenshot](Midterm Task 1/picture 1.png)
 
-## Step 4 After
-![screenshot](/Midterm%20Task%201/Images/After.png)
 
-## Here's the Physical Data Model
-![screenshot](/Midterm%20Task%201/Images/Relation.PNG)
