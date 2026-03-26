@@ -28,15 +28,20 @@ Display KPIs (total revenue, total profit, average margin).
 Add charts for quick insights.
 Highlight Texas as top state and May as top month.
 ## Here the Screen Shot
+
 # Identify Dirty Data
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/247f5ca983dadfafee44c0e269918048e316a463/Midterm%20Task%201/picture%201.png)
+
 ## Map IDs to Real Entities
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/a1d84493a8ea6d5f86ecf8c97f0000ac49a3db0e/Midterm%20Task%201/picture2.png)
 
+# Clean Values
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/44d6d8266a67247bb757194fe27d3a402b243a39/Midterm%20Task%201/picture3.png)
 
+# Aggregate Data
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/cc6152fa2ce1efed2c7497c6f91d6ee37520c32c/Midterm%20Task%201/picture4.png)
 
-![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/a1d84493a8ea6d5f86ecf8c97f0000ac49a3db0e/Midterm%20Task%201/picture2.png)
+# Visualize
+![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/8b28b480d12d0767ba4185fed2b1574e834037c6/Midterm%20Task%201/picture5.png)
 
 
