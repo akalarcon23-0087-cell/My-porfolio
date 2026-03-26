@@ -17,4 +17,6 @@ Includes state (e.g., London) for regional insights.
 # here the screen shot
 ![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/bb595f9639d51d97ba4bff698b8d3d9fbc42ecf3/Midterm%20Task%202/Screenshot%202026-03-26%20001138.png)
 
-![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/bb595f9639d51d97ba4bff698b8d3d9fbc42ecf3/Midterm%20Task%202/Screenshot%202026-03-26%20001138.png)
+![screenshot](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/2f00f9840d0dc8a27424583e04679d42095ef215/Midterm%20Task%202/Screenshot%202026-03-26%20001159.png)
+
+
