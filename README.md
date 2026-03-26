@@ -1,14 +1,14 @@
 # My-Portfolio Anna Kirsten Alarcon.
-This portfolio will contain copies of my Enterprise Data Management Lab Exercises                                
+This portfolio will contain copies of my 7ANALYTICS MIDTERM Lab.                                
 
 # About Me
 ![screenshot](https://avatars.githubusercontent.com/u/258161223?v=4)
 
 I’m Anna Kirsten Alarcon, a BS Computer Science student from CCA (BSCS-C302) with a passion for learning, connecting with people, and exploring new ideas. I enjoy planning ahead and thinking strategically, and I aspire to build a successful career in the IT industry while making a meaningful impact.
 # Education
-- College: City College of Angeles (BSIS)
-- Highschool: Bonifacio V. Romero High School
-- Elementary: EPZA Resettlement Elementary School
+- College: College: City College of Angeles (BSCS)
+- Highschool: Sapang baibas camachlies mabalacat dau
+- Elementary: Tartaro elemtary school
   
 # My Projects
 ## Midterms
