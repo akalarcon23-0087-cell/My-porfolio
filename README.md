@@ -2,7 +2,7 @@
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises                                
 
 # About Me
-![screenshot](/Prinssss.jfif)
+![screenshot](profile.png)
 
 I’m Anna Kirsten Alarcon, a BS Computer Science student from CCA (BSCS-C302) with a passion for learning, connecting with people, and exploring new ideas. I enjoy planning ahead and thinking strategically, and I aspire to build a successful career in the IT industry while making a meaningful impact.
 # Education
