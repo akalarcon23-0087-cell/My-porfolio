@@ -3,9 +3,18 @@
 
 ## step by step 
 
-# Date & Time: Tracks when each sale or listing occurred.
-# Customer Info: Includes age, gender, and country.
-# Vehicle Details: Shows vehicle age, type (e.g., 4WD), brand (e.g., Mercedes-Benz), and submodel.
-# Pricing Columns: Lists various price points—ExShow Rate, List Price, Net Price, RRP, etc.—to analyze pricing strategy.
-# Location: Includes state (e.g., London) for regional insights.
+# step 1 Date & Time: 
+Tracks when each sale or listing occurred.
+# step 2 Customer Info:
+Includes age, gender, and country.
+# step 3Vehicle Details: 
+Shows vehicle age, type (e.g., 4WD), brand (e.g., Mercedes-Benz), and submodel.
+# step 4 Pricing Columns: 
+Lists various price points—ExShow Rate, List Price, Net Price, RRP, etc.—to analyze pricing strategy.
+# step 5 Location: 
+Includes state (e.g., London) for regional insights.
+
+# here the screen shot
+![screenshot](/Midterm%20Task%202/Images/Sal_by_size_ref.png)
+
   
