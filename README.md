@@ -13,7 +13,7 @@ I’m Anna Kirsten Alarcon, a BS Computer Science student from CCA (BSCS-C302) w
 # My Projects
 ## Midterms
 
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://princeeee26.github.io/Midterm-Lab-Task-1-Data-Cleaning-and-Preparation-using-Excel/)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/akalarcon23-0087-cell/My-porfolio/blob/158906f196ebf9f23b73ce259ef365e148642dcd/Midterm%20Task%201/README.md)
   
 - Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://princeeee26.github.io/Midterm-Lab-Task-2-Data-Cleaning-and-Preparation-using-Power-Query/)
   
