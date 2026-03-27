@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 1 - Data Cleaning and Preparation</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Fredoka:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root { --primary: #8b5cf6; --secondary: #ec4899; --text: #1f2937; --muted: #6b7280; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Poppins', sans-serif;
+            min-height: 100vh;
+            color: var(--text);
+            background: radial-gradient(circle at top left, rgba(236, 72, 153, 0.25), transparent 30%), linear-gradient(135deg, #f5d0fe 0%, #ddd6fe 45%, #bfdbfe 100%);
+            padding: 32px 20px 60px;
+        }
+        .page { max-width: 1100px; margin: 0 auto; }
+        .hero, .gallery-section {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 28px;
+            padding: 32px;
+            box-shadow: 0 20px 45px rgba(139, 92, 246, 0.18);
+        }
+        .hero { margin-bottom: 28px; }
+        .back-link { display: inline-block; margin-bottom: 18px; color: var(--primary); text-decoration: none; font-weight: 600; }
+        h1 { font-family: 'Fredoka', cursive; font-size: clamp(2rem, 4vw, 3rem); color: var(--primary); margin-bottom: 10px; }
+        .subtitle { color: var(--muted); font-size: 1.05rem; line-height: 1.7; margin-bottom: 24px; }
+        .actions { display: flex; flex-wrap: wrap; gap: 14px; }
+        .btn {
+            display: inline-block;
+            text-decoration: none;
+            padding: 14px 22px;
+            border-radius: 999px;
+            font-weight: 600;
+            transition: transform 0.2s ease;
+        }
+        .btn-primary { background: linear-gradient(45deg, var(--primary), var(--secondary)); color: white; }
+        .btn-secondary { background: #f3e8ff; color: var(--primary); }
+        .btn:hover { transform: translateY(-2px); }
+        .gallery-section h2 { font-family: 'Fredoka', cursive; font-size: 2rem; margin-bottom: 20px; color: #312e81; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
+        .shot { background: #faf5ff; border-radius: 22px; overflow: hidden; border: 1px solid rgba(139, 92, 246, 0.15); }
+        .shot img { display: block; width: 100%; height: 250px; object-fit: cover; background: white; }
+        .shot p { padding: 14px 16px 18px; color: var(--muted); font-size: 0.95rem; }
+        @media (max-width: 640px) { .hero, .gallery-section { padding: 22px; } .shot img { height: 220px; } }
+    </style>
+</head>
+<body>
+    <main class="page">
+        <section class="hero">
+            <a class="back-link" href="index.html">&larr; Back to portfolio</a>
+            <h1>Task 1</h1>
+            <p class="subtitle">This page shows the screenshots for the Excel data cleaning and preparation activity. You can review the output here first, then open the GitHub folder for the full task files.</p>
+            <div class="actions">
+                <a class="btn btn-primary" href="https://github.com/akalarcon23-0087-cell/My-porfolio/tree/51c69595efa975c4f672bf94bd75f9635bb5b5d5/Midterm%20Task%201" target="_blank" rel="noopener noreferrer">Open on GitHub</a>
+                <a class="btn btn-secondary" href="index.html#tasks">Go to task list</a>
+            </div>
+        </section>
+
+        <section class="gallery-section">
+            <h2>Task 1 Screenshots</h2>
+            <div class="gallery">
+                <figure class="shot">
+                    <img src="Midterm%20Task%201/picture%201.png" alt="Task 1 screenshot 1">
+                    <p>Dataset view before and during cleaning.</p>
+                </figure>
+                <figure class="shot">
+                    <img src="Midterm%20Task%201/picture2.png" alt="Task 1 screenshot 2">
+                    <p>Duplicate checking and formatting adjustments.</p>
+                </figure>
+                <figure class="shot">
+                    <img src="Midterm%20Task%201/picture3.png" alt="Task 1 screenshot 3">
+                    <p>Improved structure and prepared data columns.</p>
+                </figure>
+                <figure class="shot">
+                    <img src="Midterm%20Task%201/picture4.png" alt="Task 1 screenshot 4">
+                    <p>Final cleanup progress for analysis readiness.</p>
+                </figure>
+                <figure class="shot">
+                    <img src="Midterm%20Task%201/picture5.png" alt="Task 1 screenshot 5">
+                    <p>Completed cleaned dataset output.</p>
+                </figure>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

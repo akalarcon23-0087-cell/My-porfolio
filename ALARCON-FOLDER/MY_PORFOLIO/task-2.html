@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 2 - Data Analysis using Pivot Table</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Fredoka:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root { --primary: #0f766e; --secondary: #14b8a6; --text: #1f2937; --muted: #6b7280; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Poppins', sans-serif;
+            min-height: 100vh;
+            color: var(--text);
+            background: radial-gradient(circle at top right, rgba(20, 184, 166, 0.22), transparent 28%), linear-gradient(135deg, #ccfbf1 0%, #ecfeff 45%, #e0f2fe 100%);
+            padding: 32px 20px 60px;
+        }
+        .page { max-width: 1100px; margin: 0 auto; }
+        .hero, .gallery-section {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 28px;
+            padding: 32px;
+            box-shadow: 0 20px 45px rgba(15, 118, 110, 0.15);
+        }
+        .hero { margin-bottom: 28px; }
+        .back-link { display: inline-block; margin-bottom: 18px; color: var(--primary); text-decoration: none; font-weight: 600; }
+        h1 { font-family: 'Fredoka', cursive; font-size: clamp(2rem, 4vw, 3rem); color: var(--primary); margin-bottom: 10px; }
+        .subtitle { color: var(--muted); font-size: 1.05rem; line-height: 1.7; margin-bottom: 24px; }
+        .actions { display: flex; flex-wrap: wrap; gap: 14px; }
+        .btn {
+            display: inline-block;
+            text-decoration: none;
+            padding: 14px 22px;
+            border-radius: 999px;
+            font-weight: 600;
+            transition: transform 0.2s ease;
+        }
+        .btn-primary { background: linear-gradient(45deg, var(--primary), var(--secondary)); color: white; }
+        .btn-secondary { background: #ccfbf1; color: var(--primary); }
+        .btn:hover { transform: translateY(-2px); }
+        .gallery-section h2 { font-family: 'Fredoka', cursive; font-size: 2rem; margin-bottom: 20px; color: #134e4a; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+        .shot { background: #f0fdfa; border-radius: 22px; overflow: hidden; border: 1px solid rgba(20, 184, 166, 0.15); }
+        .shot img { display: block; width: 100%; height: 260px; object-fit: cover; background: white; }
+        .shot p { padding: 14px 16px 18px; color: var(--muted); font-size: 0.95rem; }
+        @media (max-width: 640px) { .hero, .gallery-section { padding: 22px; } }
+    </style>
+</head>
+<body>
+    <main class="page">
+        <section class="hero">
+            <a class="back-link" href="index.html">&larr; Back to portfolio</a>
+            <h1>Task 2</h1>
+            <p class="subtitle">This page contains the screenshots for the pivot table and dashboard activity. The GitHub link is included below so the project folder is easy to open from this page.</p>
+            <div class="actions">
+                <a class="btn btn-primary" href="https://github.com/akalarcon23-0087-cell/My-porfolio/blob/77f95e29087f6df4618b4c636435f4716338d124/Midterm%20Task%202/README.md" target="_blank" rel="noopener noreferrer">Open on GitHub</a>
+                <a class="btn btn-secondary" href="index.html#tasks">Go to task list</a>
+            </div>
+        </section>
+
+        <section class="gallery-section">
+            <h2>Task 2 Screenshots</h2>
+            <div class="gallery">
+                <figure class="shot">
+                    <img src="Midterm%20Task%202/Screenshot%202026-03-26%20001138.png" alt="Task 2 screenshot 1">
+                    <p>Pivot table summary for the dataset.</p>
+                </figure>
+                <figure class="shot">
+                    <img src="Midterm%20Task%202/Screenshot%202026-03-26%20001159.png" alt="Task 2 screenshot 2">
+                    <p>Dashboard view with analysis controls and report layout.</p>
+                </figure>
+                <figure class="shot">
+                    <img src="Midterm%20Task%202/Screenshot%202026-03-26%20001232.png" alt="Task 2 screenshot 3">
+                    <p>Additional filtered analysis and reporting output.</p>
+                </figure>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
